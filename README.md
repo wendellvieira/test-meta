@@ -1,6 +1,7 @@
 # Dasafios Meta
 
 ## Executar o desafio de lógica
+> O arquivo word está com os códigos relacionados
 ```sh
 $ cd ./"Desafio Lógica"/
 $ node teste.js
@@ -26,7 +27,7 @@ Resposta questão quatro:
 ```
 
 ## Executar o desafio WebApi
-> É nescessário ter o mongoDb instalado..
+> É nescessário ter o mongoDb instalado.. <br>
 > Para testar a api sugiro o uso do postman
 ```sh
 $ mongod
